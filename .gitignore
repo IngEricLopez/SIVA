@@ -1,0 +1,16 @@
+*.exe
+*.log
+*.obj
+*.dll
+*.pdb
+build/
+Debug/
+gui1/
+opencv2.4.9/
+packages/
+Paginas WEB/
+Release/
+x64/
+.vs/
+Captura.png
+Class Protected.png

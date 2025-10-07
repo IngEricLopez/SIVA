@@ -1,0 +1,775 @@
+﻿'SYVA.exe' (Win32): 'C:\Users\Ixitv-Elopez\Documents\Visual Studio 2019\gui1\x64\Debug\SYVA.exe' cargado. Símbolos cargados.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mscoree.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\oleaut32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\opencv\build\x64\vc14\bin\opencv_world320d.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\user32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\win32u.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\gdi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ole32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\sechost.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\comdlg32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\SHCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\shlwapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\shell32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\windows.storage.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\advapi32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\profapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\powrprof.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\fltLib.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.829_none_f94fe9573097fa34\comctl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvfw32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\avifil32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\avicap32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\concrt140d.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\winmm.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msacm32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\winmmbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\imm32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+
+***** VIDEOINPUT LIBRARY - 0.1995 - TFW07 *****
+
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\version.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvcr120_clr0400.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\tmumh\20019\AddOn\7.0.0.1162\TmUmEvt64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\psapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\tmumh\20019\TmMon\2.5.0.2084\tmmon64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x5db8 terminó con código 0 (0x0).
+El subproceso 0x7c54 terminó con código 0 (0x0).
+El subproceso 0x3e90 terminó con código 0 (0x0).
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\bef0a43af1bb9a52ee47a6f60bec2961\mscorlib.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\Windows\System32\uxtheme.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Users\Ixitv-Elopez\Documents\Visual Studio 2019\gui1\x64\Debug\SYVA.exe' cargado. Símbolos cargados.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\diasymreader.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System\2ef4bd82ccd0a1d27eaefb60228f9a48\System.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\opencv\build\x64\vc14\bin\opencv_ffmpeg320_64.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ws2_32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\secur32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\sspicli.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Drawing\1f4391ce1a8e125ee0ed1f97adce114a\System.Drawing.ni.dll' cargado. 
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Windows.Forms\d687d654220d3ae1e9175ccf7bcf4264\System.Windows.Forms.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Core\a596f7c9b0ba27eecf3517dcf4f861d6\System.Core.ni.dll' cargado. 
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\bc94cdb3fe5fffa24b6cc69b9fef77f0\System.Configuration.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Xml\55f8a8308df67bd3d5d7441a99c6da88\System.Xml.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\Windows\System32\bcrypt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\cryptsp.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\rsaenh.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\cryptbase.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\dwmapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Wind0de890be#\4774bd812080a8245cbf9ee01d5ccc78\System.Windows.Forms.DataVisualization.ni.dll' cargado. 
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization\v4.0_4.0.0.0__31bf3856ad364e35\System.Windows.Forms.DataVisualization.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'SYVA.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.829_none_2c31982c8af433a3\GdiPlus.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\DWrite.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msctf.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\riched20.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\usp10.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msls31.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' descargado
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Windows.Forms.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization.resources\v4.0_4.0.0.0_es_31bf3856ad364e35\System.Windows.Forms.DataVisualization.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization.resources\v4.0_4.0.0.0_es_31bf3856ad364e35\System.Windows.Forms.DataVisualization.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization.resources\v4.0_4.0.0.0_es_31bf3856ad364e35\System.Windows.Forms.DataVisualization.resources.dll' descargado
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.DataVisualization.resources\v4.0_4.0.0.0_es_31bf3856ad364e35\System.Windows.Forms.DataVisualization.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\System32\WindowsCodecs.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.829_none_fb46a5473061b9d5\comctl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ntmarta.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\clbcatq.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\devenum.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\setupapi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\devobj.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\wintrust.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msasn1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\crypt32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msdmo.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Setting up device 0
+'SYVA.exe' (Win32): 'C:\Windows\System32\qcap.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\quartz.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfksproxy.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\atl.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfplat.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\RTWorkQ.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfsensorgroup.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfcore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ksuser.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\FSClient.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\dxgi.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\d3d11.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\avrt.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\vidcap.ax' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\Kswdmcap.ax' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfc42.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\policymanager.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\msvcp110_win.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\mfreadwrite.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 640x480
+SETUP: trying format RGB24 @ 640x480
+SETUP: trying format RGB32 @ 640x480
+SETUP: trying format RGB555 @ 640x480
+SETUP: trying format RGB565 @ 640x480
+SETUP: trying format YUY2 @ 640x480
+'SYVA.exe' (Win32): 'C:\Windows\System32\qedit.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\ddraw.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\dciman32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+'SYVA.exe' (Win32): 'C:\Windows\System32\OpenCL.DLL' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\IntelOpenCL64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\intelocl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\task_executor64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\opengl32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\glu32.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\cpu_device64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdrcl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x1ac4 terminó con código 0 (0x0).
+'SYVA.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdfcl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdmcl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\dbghelp.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdbcl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdusc64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\IntelOpenCLProfiler.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\System32\Intelopencl64_2_1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL2.1\bin\x64\Intelocl64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL2.1\bin\x64\task_executor64_2_1.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Program Files (x86)\Common Files\Intel\OpenCL2.1\bin\x64\cpu_device64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\common_clang64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x557c terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x5608 terminó con código 0 (0x0).
+El subproceso 0x8610 terminó con código 0 (0x0).
+El subproceso 0x7f48 terminó con código 0 (0x0).
+El subproceso 0x7424 terminó con código 0 (0x0).
+El subproceso 0x7964 terminó con código 0 (0x0).
+El subproceso 0x6128 terminó con código 0 (0x0).
+El subproceso 0x1274 terminó con código 0 (0x0).
+El subproceso 0x6810 terminó con código 0 (0x0).
+El subproceso 0x7b20 terminó con código 0 (0x0).
+El subproceso 0xc2c terminó con código 0 (0x0).
+El subproceso 0x723c terminó con código 0 (0x0).
+El subproceso 0x4e38 terminó con código 0 (0x0).
+El subproceso 0x7908 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 1920x1080
+SETUP: trying format RGB24 @ 1920x1080
+SETUP: trying format RGB32 @ 1920x1080
+SETUP: trying format RGB555 @ 1920x1080
+SETUP: trying format RGB565 @ 1920x1080
+SETUP: trying format YUY2 @ 1920x1080
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+Setting video setting Contrast.
+Range for video setting Contrast: Min:0 Max:10 SteppingDelta:1 Default:5 Flags:2
+Current value: 8 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 20 Flags 2 (Manual)
+Setting video setting Hue.
+Range for video setting Hue: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Gain.
+Range for video setting Gain: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Exposure.
+Range for video setting Exposure: Min:-13 Max:0 SteppingDelta:1 Default:-6 Flags:3
+Current value: -6 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 31 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 30 Flags 2 (Manual)
+El subproceso 0x6fd0 terminó con código 0 (0x0).
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'SYVA.exe' (Win32): 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' descargado
+'SYVA.exe' (CLR v4.0.30319: SYVA.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+Excepción producida: 'System.IO.FileNotFoundException' en System.Drawing.dll
+El subproceso 0x3b68 terminó con código 0 (0x0).
+El subproceso 0x5e54 terminó con código 0 (0x0).
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x6010 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x331c terminó con código 0 (0x0).
+El subproceso 0x8778 terminó con código 0 (0x0).
+El subproceso 0x7db0 terminó con código 0 (0x0).
+El subproceso 0x740 terminó con código 0 (0x0).
+El subproceso 0x6a9c terminó con código 0 (0x0).
+El subproceso 0x7318 terminó con código 0 (0x0).
+El subproceso 0x6cac terminó con código 0 (0x0).
+El subproceso 0x7f40 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 640x480
+SETUP: trying format RGB24 @ 640x480
+SETUP: trying format RGB32 @ 640x480
+SETUP: trying format RGB555 @ 640x480
+SETUP: trying format RGB565 @ 640x480
+SETUP: trying format YUY2 @ 640x480
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x71c8 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x78f8 terminó con código 0 (0x0).
+El subproceso 0x8378 terminó con código 0 (0x0).
+El subproceso 0x4944 terminó con código 0 (0x0).
+El subproceso 0x2fa0 terminó con código 0 (0x0).
+El subproceso 0x5d40 terminó con código 0 (0x0).
+El subproceso 0x30c4 terminó con código 0 (0x0).
+El subproceso 0x812c terminó con código 0 (0x0).
+El subproceso 0x8658 terminó con código 0 (0x0).
+El subproceso 0x3edc terminó con código 0 (0x0).
+El subproceso 0x5658 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 1920x1080
+SETUP: trying format RGB24 @ 1920x1080
+SETUP: trying format RGB32 @ 1920x1080
+SETUP: trying format RGB555 @ 1920x1080
+SETUP: trying format RGB565 @ 1920x1080
+SETUP: trying format YUY2 @ 1920x1080
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+Setting video setting Contrast.
+Range for video setting Contrast: Min:0 Max:10 SteppingDelta:1 Default:5 Flags:2
+Current value: 8 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 20 Flags 2 (Manual)
+Setting video setting Hue.
+Range for video setting Hue: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Gain.
+Range for video setting Gain: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Exposure.
+Range for video setting Exposure: Min:-13 Max:0 SteppingDelta:1 Default:-6 Flags:3
+Current value: -6 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 31 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 30 Flags 2 (Manual)
+El subproceso 0x750c terminó con código 0 (0x0).
+El subproceso 0x66d4 terminó con código 0 (0x0).
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 31 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 94 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 95 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 95 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 96 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 96 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 97 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 97 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 98 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 98 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 99 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 99 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 20 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 100 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 99 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 99 Flags 2 (Manual)
+El subproceso 0x4e6c terminó con código 0 (0x0).
+El subproceso 0x5014 terminó con código 0 (0x0).
+El subproceso 0x78fc terminó con código 0 (0x0).
+El subproceso 0x7ccc terminó con código 0 (0x0).
+El subproceso 0x4f00 terminó con código 0 (0x0).
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x780 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x700c terminó con código 0 (0x0).
+El subproceso 0xf34 terminó con código 0 (0x0).
+El subproceso 0x5840 terminó con código 0 (0x0).
+El subproceso 0x6ca4 terminó con código 0 (0x0).
+El subproceso 0x4d10 terminó con código 0 (0x0).
+El subproceso 0x8420 terminó con código 0 (0x0).
+El subproceso 0x4dd8 terminó con código 0 (0x0).
+El subproceso 0x703c terminó con código 0 (0x0).
+El subproceso 0x492c terminó con código 0 (0x0).
+El subproceso 0x7460 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 640x480
+SETUP: trying format RGB24 @ 640x480
+SETUP: trying format RGB32 @ 640x480
+SETUP: trying format RGB555 @ 640x480
+SETUP: trying format RGB565 @ 640x480
+SETUP: trying format YUY2 @ 640x480
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+El subproceso 0x57ac terminó con código 0 (0x0).
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x788c terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x4ea0 terminó con código 0 (0x0).
+El subproceso 0x7838 terminó con código 0 (0x0).
+El subproceso 0x6d5c terminó con código 0 (0x0).
+El subproceso 0x7ed0 terminó con código 0 (0x0).
+El subproceso 0x68e8 terminó con código 0 (0x0).
+El subproceso 0x3048 terminó con código 0 (0x0).
+El subproceso 0x4a54 terminó con código 0 (0x0).
+El subproceso 0x6434 terminó con código 0 (0x0).
+El subproceso 0x1510 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 320x240
+SETUP: trying format RGB24 @ 320x240
+SETUP: trying format RGB32 @ 320x240
+SETUP: trying format RGB555 @ 320x240
+SETUP: trying format RGB565 @ 320x240
+SETUP: trying format YUY2 @ 320x240
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x78e4 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x4a60 terminó con código 0 (0x0).
+El subproceso 0x6a00 terminó con código 0 (0x0).
+El subproceso 0x6870 terminó con código 0 (0x0).
+El subproceso 0x674c terminó con código 0 (0x0).
+El subproceso 0x7d4 terminó con código 0 (0x0).
+El subproceso 0x2e40 terminó con código 0 (0x0).
+El subproceso 0x6060 terminó con código 0 (0x0).
+El subproceso 0x52f0 terminó con código 0 (0x0).
+El subproceso 0x77fc terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 800x600
+SETUP: trying format RGB24 @ 800x600
+SETUP: trying format RGB32 @ 800x600
+SETUP: trying format RGB555 @ 800x600
+SETUP: trying format RGB565 @ 800x600
+SETUP: trying format YUY2 @ 800x600
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0xf80 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x79a4 terminó con código 0 (0x0).
+El subproceso 0x6d70 terminó con código 0 (0x0).
+El subproceso 0x709c terminó con código 0 (0x0).
+El subproceso 0x58c4 terminó con código 0 (0x0).
+El subproceso 0x6460 terminó con código 0 (0x0).
+El subproceso 0x27c8 terminó con código 0 (0x0).
+El subproceso 0x2f10 terminó con código 0 (0x0).
+El subproceso 0x6bac terminó con código 0 (0x0).
+El subproceso 0x860c terminó con código 0 (0x0).
+El subproceso 0x82b4 terminó con código 0 (0x0).
+El subproceso 0x6e7c terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 640x480
+SETUP: trying format RGB24 @ 640x480
+SETUP: trying format RGB32 @ 640x480
+SETUP: trying format RGB555 @ 640x480
+SETUP: trying format RGB565 @ 640x480
+SETUP: trying format YUY2 @ 640x480
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x1a88 terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x8230 terminó con código 0 (0x0).
+El subproceso 0x1b54 terminó con código 0 (0x0).
+El subproceso 0x7ff4 terminó con código 0 (0x0).
+El subproceso 0x7a30 terminó con código 0 (0x0).
+El subproceso 0x44c0 terminó con código 0 (0x0).
+El subproceso 0x5c58 terminó con código 0 (0x0).
+El subproceso 0x49ec terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+SETUP: Setting up device 0
+SETUP: Microsoft® LifeCam Studio(TM)
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 1920x1080
+SETUP: trying format RGB24 @ 1920x1080
+SETUP: trying format RGB32 @ 1920x1080
+SETUP: trying format RGB555 @ 1920x1080
+SETUP: trying format RGB565 @ 1920x1080
+SETUP: trying format YUY2 @ 1920x1080
+SETUP: Capture callback set
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'SYVA.exe' (Win32): 'C:\Windows\System32\igdumdim64.dll' descargado
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+SETUP: Device is setup and ready to capture.
+
+Setting video setting Contrast.
+Range for video setting Contrast: Min:0 Max:10 SteppingDelta:1 Default:5 Flags:2
+Current value: 8 Flags 2 (Manual)
+Setting video setting Saturation.
+Range for video setting Saturation: Min:0 Max:200 SteppingDelta:1 Default:103 Flags:2
+Current value: 100 Flags 2 (Manual)
+Setting video setting Hue.
+Range for video setting Hue: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Gain.
+Range for video setting Gain: Min:-858993460 Max:-858993460 SteppingDelta:-858993460 Default:-858993460 Flags:0
+Current value: -858993460 Flags -858993460 (Unknown)
+Setting video setting Exposure.
+Range for video setting Exposure: Min:-13 Max:0 SteppingDelta:1 Default:-6 Flags:3
+Current value: -6 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 100 Flags 2 (Manual)
+Setting video setting Brightness.
+Range for video setting Brightness: Min:30 Max:255 SteppingDelta:1 Default:133 Flags:2
+Current value: 100 Flags 2 (Manual)
+
+SETUP: Disconnecting device 0
+SETUP: freeing Grabber Callback
+El subproceso 0x377c terminó con código 0 (0x0).
+SETUP: freeing Grabber
+SETUP: freeing Control
+SETUP: freeing Media Event
+SETUP: freeing Media Type
+SETUP: removing filter NullRenderer...
+SETUP: filter removed NullRenderer
+SETUP: removing filter Sample Grabber...
+SETUP: filter removed Sample Grabber
+SETUP: removing filter AVI Decompressor...
+SETUP: filter removed AVI Decompressor
+'SYVA.exe' (Win32): 'C:\Windows\System32\msyuv.dll' descargado
+SETUP: removing filter Smart Tee...
+SETUP: filter removed Smart Tee
+SETUP: removing filter Microsoft® LifeCam Studio(TM)...
+SETUP: filter removed Microsoft® LifeCam Studio(TM)
+El subproceso 0x1d04 terminó con código 0 (0x0).
+El subproceso 0x4224 terminó con código 0 (0x0).
+El subproceso 0x6c90 terminó con código 0 (0x0).
+El subproceso 0x5df4 terminó con código 0 (0x0).
+El subproceso 0x1fe0 terminó con código 0 (0x0).
+El subproceso 0x83d8 terminó con código 0 (0x0).
+El subproceso 0x3614 terminó con código 0 (0x0).
+El subproceso 0x7284 terminó con código 0 (0x0).
+SETUP: freeing Capture Graph
+SETUP: freeing Main Graph
+SETUP: Device 0 disconnected and freed
+
+El subproceso 0x855c terminó con código 0 (0x0).
+El subproceso 0x7120 terminó con código 0 (0x0).
+El subproceso 0x2890 terminó con código 0 (0x0).
+El subproceso 0x6f74 terminó con código 0 (0x0).
+El subproceso 0x55c0 terminó con código 0 (0x0).
+El subproceso 0x42c4 terminó con código 0 (0x0).
+El subproceso 0x231c terminó con código 0 (0x0).
+El subproceso 0x5de8 terminó con código 0 (0x0).
+El subproceso 0x62d8 terminó con código 0 (0x0).
+El subproceso 0x702c terminó con código 0 (0x0).
+El subproceso 0x4f70 terminó con código 0 (0x0).
+El subproceso 0x70a0 terminó con código 0 (0x0).
+El programa '[33516] SYVA.exe' terminó con código 0 (0x0).
